@@ -1,0 +1,24 @@
+
+{
+    "name": "AI",
+    "children": [
+      {
+        "name": "Specific",
+        "children": []
+      },
+      {
+        "name": "Generic",
+        "children": []
+      },
+      {
+        "name": "Regression",
+        "children": []
+      },
+      {
+        "name": "Classification",
+        "children": []
+      }
+
+    ]
+  }
+  

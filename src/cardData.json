@@ -1,0 +1,43 @@
+
+[
+    {
+        "id": 1,
+        "title": "ChatGPT",
+        "description": "A state-of-the-art language model by OpenAI, primarily used for conversational purposes.",
+        "tags": ["chatbot", "virtual assistant", "NLP"],
+        "link": "https://openai.com",
+        "image": "https://www.splashlearn.com/blog/wp-content/uploads/2023/09/best-chatgpt-prompts-for-teachers.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "DALL·E 3",
+        "description": "A version of the GPT-3.5 architecture trained to generate images from textual descriptions.",
+        "tags": ["image generation", "NLP"],
+        "link": "https://openai.com",
+        "image": "https://external-preview.redd.it/dalle-3-chatgpt-release-may-not-be-better-than-midjourney-v0-TYgbBtNtiNv07dHNUgduqS-FLL9coHqNUGSOwdJ90Dc.jpg?format=pjpg&auto=webp&s=1b7a317a00992f6f227d2f5cbc2c7a08ae6ac14e"
+    },
+    {
+        "id": 3,
+        "title": "MidJourney",
+        "description": "A platform that provides creative tools and services.",
+        "tags": ["creative tools"],
+        "link": "https://midjourney.com",
+        "image": "https://assets-global.website-files.com/64d7439804a893ff7e4446ed/64e11164a682fc87d408f054_Midjourney-logo-header.webp"
+    },
+    {
+        "id": 4,
+        "title": "Bard",
+        "description": "A narrative generation tool based on OpenAI's models.",
+        "tags": ["narrative generation", "NLP"],
+        "link": "https://openai.com",
+        "image": "https://cdn.dribbble.com/userupload/7235574/file/original-565aeb6d127917f90080ca40a6ddda39.png"
+    },
+    {
+        "id": 5,
+        "title": "RunwayML",
+        "description": "A creative toolkit powered by AI. Enables creators to use AI in intuitive ways.",
+        "tags": ["creative AI", "toolkit"],
+        "link": "https://runwayml.com",
+        "image": "https://runwayml.com/images/og/og_app.jpg"
+    }
+]
