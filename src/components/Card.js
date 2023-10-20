@@ -1,6 +1,6 @@
 import { Card as MUICard, CardMedia, CardContent, Typography, Box } from '@mui/material';
 
-function Card({ image, title, description, tags }) {
+function Card({ image, title, description, tags,onClick }) {
     return (
         <MUICard sx={{ 
             maxWidth: 345, 
@@ -11,7 +11,7 @@ function Card({ image, title, description, tags }) {
             border: '1px solid rgba(255, 255, 255, 0.1)',
             boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
             color: 'white'  // Set text color to white
-        }}>
+        }}onClick={onClick}>
             <CardMedia
                 component="img"
                 alt={title}

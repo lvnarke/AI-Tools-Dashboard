@@ -8,6 +8,7 @@ function SearchBar({ onSearch }) {
       variant="outlined" 
       label="Search" 
       onChange={e => onSearch(e.target.value)}
+      style={{ marginTop: '20px' }}
       InputProps={{
         style: {
           backgroundColor: 'rgba(255, 255, 255, 0.2)',  // Less transparent
