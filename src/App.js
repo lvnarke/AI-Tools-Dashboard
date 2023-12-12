@@ -41,11 +41,11 @@ function App() {
 
 <div style={{ display: 'flex' }}>
                 <Container component="main" maxWidth="lg" style={{ 
-                    backgroundColor: 'rgba(255, 255, 255, 0.1)',
-                    backdropFilter: 'blur(10px)',
+                    backgroundColor: 'rgba(255, 255, 255, 0.05)',
+                    backdropFilter: 'blur(7px)',
                     borderRadius: '10px',
-                    border: '1px solid rgba(255, 255, 255, 0.1)',
-                    boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
+                    border: '2px solid rgba(255, 255, 255, 0.1)',
+                    boxShadow: '0 10px 10px rgba(0, 0, 0, 0.2)',
                     minHeight: '100vh',
                     marginTop: '20px'
                 }}>
@@ -54,11 +54,10 @@ function App() {
 
                 {selectedCard && (
                     <div style={{ 
-                        flex: 1, 
-                        backgroundColor: 'rgba(255, 255, 255, 0.1)', 
-                        backdropFilter: 'blur(10px)', 
+                        backgroundColor: 'rgba(255, 255, 255, 0.6)', 
+                        backdropFilter: 'blur(5px)', 
                         borderRadius: '10px', 
-                        border: '1px solid rgba(255, 255, 255, 0.1)', 
+                        border: '2px solid rgba(255, 255, 255, 0.1)', 
                         boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
                         padding: '20px',
                         width: '40%',

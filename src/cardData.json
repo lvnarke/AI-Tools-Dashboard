@@ -4,7 +4,7 @@
         "id": 1,
         "title": "ChatGPT",
         "description": "A state-of-the-art language model by OpenAI, primarily used for conversational purposes.",
-        "tags": ["chatbot", "virtual assistant", "NLP"],
+        "tags": ["language model AI", "conversational AI", "text generation", "natural language processing"],
         "link": "https://openai.com",
         "image": "https://www.splashlearn.com/blog/wp-content/uploads/2023/09/best-chatgpt-prompts-for-teachers.jpeg"
     },
@@ -12,15 +12,15 @@
         "id": 2,
         "title": "DALL·E 3",
         "description": "A version of the GPT-3.5 architecture trained to generate images from textual descriptions.",
-        "tags": ["image generation", "NLP"],
+        "tags": ["image generation AI", "visual creativity tool", "text-to-image AI"],
         "link": "https://openai.com",
         "image": "https://external-preview.redd.it/dalle-3-chatgpt-release-may-not-be-better-than-midjourney-v0-TYgbBtNtiNv07dHNUgduqS-FLL9coHqNUGSOwdJ90Dc.jpg?format=pjpg&auto=webp&s=1b7a317a00992f6f227d2f5cbc2c7a08ae6ac14e"
     },
     {
         "id": 3,
         "title": "MidJourney",
-        "description": "A platform that provides creative tools and services.",
-        "tags": ["creative tools"],
+        "description": "dependent AI research lab's tool, Midjourney specializes in creating highly detailed and imaginative visual content, pushing the boundaries of AI-assisted artistic creation.",
+        "tags": ["AI art generation", "creative exploration tool", "visual storytelling"],
         "link": "https://midjourney.com",
         "image": "https://assets-global.website-files.com/64d7439804a893ff7e4446ed/64e11164a682fc87d408f054_Midjourney-logo-header.webp"
     },
@@ -28,7 +28,7 @@
         "id": 4,
         "title": "Bard",
         "description": "A narrative generation tool based on OpenAI's models.",
-        "tags": ["narrative generation", "NLP"],
+        "tags":  ["language model AI", "conversational AI", "information exploration", "natural language understanding"],
         "link": "https://openai.com",
         "image": "https://cdn.dribbble.com/userupload/7235574/file/original-565aeb6d127917f90080ca40a6ddda39.png"
     },
@@ -36,8 +36,64 @@
         "id": 5,
         "title": "RunwayML",
         "description": "A creative toolkit powered by AI. Enables creators to use AI in intuitive ways.",
-        "tags": ["creative AI", "toolkit"],
+        "tags": ["machine learning toolkit", "creative AI", "interactive media", "AI for artists and designers"],
         "link": "https://runwayml.com",
         "image": "https://runwayml.com/images/og/og_app.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Tome",
+        "description": "Tome is an AI-powered storytelling tool designed for crafting compelling, visually rich narratives. It helps users seamlessly integrate text, images, and interactive elements to create engaging presentations.",
+        "tags": ["storytelling AI", "presentation tool", "visual content creation", "interactive media"],
+        "link": "https://tome.app/",
+        "image": "https://ml.globenewswire.com/Resource/Download/d26394c3-0239-45e0-b89a-9128ddb30c27"
+    },
+    {
+        "id": 7,
+        "title": "HeyGen",
+        "description": "Hey Gen is an AI-powered platform designed to assist in content creation. NO CAMERA? NO CREW?NO PROBLEM! Create videos from text in minutes with AI-generated avatars and voices.",
+        "tags": ["content generation AI", "digital marketing", "SEO optimization", "article writing tool", "social media content creation","translation"],
+        "link": "https://www.heygen.com/?sid=rewardful&via=patbogo2&gclid=Cj0KCQiAo7KqBhDhARIsAKhZ4uhk-CQUjKy_yttmB-nOevPa_UwYx2QWuooGbnszXMuAalDOnBR7nacaAjECEALw_wcB",
+        "image": "https://cdn.newswire.com/files/x/42/cf/1c2edfc0072988840c2a1f1bf9e2.png"
+    },
+    {
+        "id": 8,
+        "title": "Claude",
+        "description": "An advanced AI language model developed by Anthropic, focused on understanding and generating human-like text with safety and alignment considerations.",
+        "tags": ["language model AI", "conversational AI", "text generation", "AI safety", "natural language processing"],
+        "link": "https://www.anthropic.com",
+        "image": "https://efficient-manatee.transforms.svdcdn.com/production/images/anthropic-social_share.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1676585898&s=21b0a416036ef14a47124429243b4041"
+    },
+    {
+        "id": 9,
+        "title": "Go ZigZag",
+        "description": "A versatile AI tool designed for optimizing business processes and decision-making through advanced analytics and machine learning algorithms.",
+        "tags": ["business intelligence AI", "data analytics", "machine learning", "process optimization"],
+        "link": "https://gozigzag.com/",
+        "image": "https://gozigzag.com/assets/images/Zigzag_Logo.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Llama",
+        "description": "An AI-driven platform that specializes in natural language understanding and processing, offering advanced solutions for conversational AI and language analysis.",
+        "tags": ["natural language processing", "conversational AI", "text analysis", "AI language technology"],
+        "link": "https://www.llama.ai",
+        "image": "https://media.licdn.com/dms/image/D5612AQEYkBDWH1g1Sw/article-cover_image-shrink_720_1280/0/1690200444829?e=2147483647&v=beta&t=TMYW3OVyG0pjWxigIh3BKX7lgG0i2XlfKkRvi1KeiEI"
+    },
+    {
+        "id": 11,
+        "title": "Synthesia",
+        "description": "Synthesia is an AI video generation platform that enables the creation of realistic, AI-generated videos using text inputs, revolutionizing video production and content creation.",
+        "tags": ["AI video generation", "text-to-video technology", "digital content creation", "multimedia AI"],
+        "link": "https://www.synthesia.io",
+        "image": "https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/2823/posts/107126/image-upload/synthesia_header_image.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Murf.ai",
+        "description": "Murf.ai is an advanced AI-powered voice synthesis platform that offers a range of lifelike voices for various applications, including e-learning, marketing, and video narration.",
+        "tags": ["voice synthesis AI", "text-to-speech technology", "audio content creation", "AI narration"],
+        "link": "https://www.murf.ai",
+        "image": "https://www.datanami.com/wp-content/uploads/2022/09/murf-ai-logo.png"
     }
 ]
