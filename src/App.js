@@ -33,8 +33,8 @@ function App() {
             <Typography variant="h6" style={{ flexGrow: 1 }}>
                 AI Dashboard
             </Typography>
-            <Button color="inherit" onClick={() => setCurrentPage('cards')}>Cards</Button>
-            <Button color="inherit" onClick={() => setCurrentPage('cheatsheet')}>CheatSheet</Button>
+            
+           
         </Toolbar>
     </AppBar>
 </div>
